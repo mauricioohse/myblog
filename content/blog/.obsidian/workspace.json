@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "7e4e1b89b19b3113",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7fcf93021227dbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6ef7879862aa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello world!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hello world!"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4feba9ec9cc5a21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa4d6d9641805a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f74744c596b3712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8d4e7f4e158e9f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#manha",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "141dc675c5069145",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "a95d7672c95f9a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "1558f5f9023a8b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1b6c0ccbdd89fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-19 13.03.50.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2024-10-19 13.03.50.excalidraw"
+            }
+          },
+          {
+            "id": "999058dc06642c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-19 13.03.50.excalidraw.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2024-10-19 13.03.50.excalidraw"
+            }
+          },
+          {
+            "id": "0960b5b04ad81a24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-19 13.03.50.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2024-10-19 13.03.50.excalidraw"
+            }
+          },
+          {
+            "id": "a271e0125006cbd4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "128edd3a31680106",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c73101d2e951414e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3080573079273755",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9c2b6167d766afeb",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "8a130966558f6efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d8115764585b07",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "0a6ef7879862aa1c",
+  "lastOpenFiles": [
+    "Excalidraw/SceneManager.excalidraw.md",
+    "Excalidraw/RoseNgine archtecture.excalidraw.md",
+    "Untitled.md",
+    "life system/Lists/want to do.md",
+    "Notebook/dev/game-dev/game-dev.md",
+    "life system/Themes/2023-09-23.md",
+    "Excalidraw/aoc2024-day7.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-20 12.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-13 12.14.58.excalidraw.md",
+    "2024-12-21.md",
+    "Excalidraw/aoc2024-day4.excalidraw.md",
+    "Notebook/dev/advent-of-code-2024.md",
+    "life system/Lists/want to do dump.md",
+    "life system/Themes/Themes.md",
+    "aoc2024-day7.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 14.54.11.excalidraw.md",
+    "2024-03-20.md",
+    "Verão de 2024.md",
+    "Notebook/In a nutshell/CGP grey your theme.md",
+    "Inverno de 2024 -.md",
+    "2024-06-21.md",
+    "life system/Themes/2023-12-22.md",
+    "life system/Daily notes/2024-12-21.md",
+    "Notebook/dev/game-dev/birchEngine/Kanban pong SDL2/Kanban pong SDL2.md",
+    "Excalidraw/aoc2024-day5.excalidraw.md",
+    "Excalidraw/aoc2024-day6.excalidraw.md",
+    "attachment folder/Pasted image 20231225230613.png",
+    "Notebook/dev/Untitled",
+    "attachment folder/Pasted image 20230927201848.png",
+    "attachment folder/Pasted image 20230927201827.png",
+    "attachment folder/Pasted image 20230925220237.png",
+    "attachment folder/Pasted image 20230925213330.png",
+    "transactions.ledger",
+    "attachment folder/Pasted image 20230911220739.png",
+    "Kanban Notes",
+    "Notebook/dev/game-dev/birchEngine/Kanban pong SDL2",
+    "attachment folder/Pasted image 20230905205330.png",
+    "attachment folder/Pasted image 20230905205142.png",
+    "attachment folder/Pasted image 20230905205113.png",
+    "attachment folder/Pasted image 20230905203433.png",
+    "life system/Nutrition/Meal prep",
+    "life system/Nutrition",
+    "Excalidraw",
+    "Notebook/Templates",
+    "life system/Todo-query",
+    "life system/Lists",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "130620f0253349e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "245606d4e1b59866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540b6ab091a4e0e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/Lists/want to do dump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06582e20109ae74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life system/Lists/want to do dump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e708e7729d6bb75",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4f86c82c4ed1a2e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aaf4564a97d9a729",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e66403fe9cfa013d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1924c452a64c7ca1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a6188b7b27d35534",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ed5fb5f6fa41891",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "life system/Lists/want to do dump.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6c81fdff9f11c9ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "life system/Lists/want to do dump.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7cb7513c7cb049a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "life system/Lists/want to do dump.md"
+          }
+        }
+      },
+      {
+        "id": "1a3f00acfc110cae",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1402e9799d13de3c",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "06582e20109ae74e",
+  "lastOpenFiles": [
+    "life system/Lists/want to do dump.sync-conflict-20231005-111351-KK6NZDH.md",
+    "Notebook/misc ou trash ou dump/role virada 2023 convidados.md",
+    "life system/Themes/2023-09-23.md",
+    "life system/Themes/2023-12-22.md",
+    "life system/Daily notes/2023-09-23.md",
+    "Notebook/misc ou trash ou dump/puzzle.md",
+    "attachment folder/Pasted image 20230927201827.png",
+    "life system/Themes/2023-06-21.md",
+    "attachment folder/Pasted image 20230927201848.png",
+    "attachment folder/Pasted image 20230925213330.png",
+    "Notebook/Templates/theme-template.md",
+    "Notebook/misc ou trash ou dump/pro e con mannarino vs tke.md",
+    "attachment folder/Pasted image 20230925220237.png",
+    "life system/Daily notes/Daily notes.md",
+    "life system/Daily notes/2023-09-18.md",
+    "life system/Daily notes",
+    "Untitled.md",
+    "life system/Lists/want to do dump.md",
+    "transactions.ledger",
+    "life system/Calendar/2023-08-27.md",
+    "life system/Calendar",
+    "life system/Untitled",
+    "life system/want to do dump.sync-conflict-20230827-224731-J3OY7DN.md"
+  ]
+}
